@@ -122,3 +122,77 @@
 - Some verbs like "можно" (one can) are used impersonally
 - "Потому что" means "because"
 - "И поэтому" means "and therefore" or "so"
+
+# Learning Objectives for A1 Competency
+
+## Grammar
+
+### Noun
+- Gender
+- Nouns singular and plural
+
+### Adjectives
+- Adjectives of all genders and numbers in Nominative case
+- Question word **какой** and its forms
+- Degrees of comparison
+- Short adjectives **должен, рад, готов, занят**
+
+### Modal words
+**можно, нельзя**
+
+### Pronouns
+- Personal pronouns
+- Possessive pronouns
+- Demonstrative pronoun
+- Interrogative pronouns
+
+### Verbs
+- 1 and 2 conjugations
+- Past tense
+- Reflexive verbs **учиться, заниматься, кататься, называться**
+- -ова- \ -ва verbs
+- Aspects
+- The imperative
+- Compound form of the future tense
+- Verbs of motion идти (пойти) – ходить, ехать (поехать) – ездить
+- Verbs of motion + nouns (идти в парк)
+
+### Adverbs
+- General information
+- Prefix по- + suffix -ск- : по-русски
+
+### Numbers
+- Cardinal
+- Ordinal
+
+### Syntax
+- Simple sentence
+- Questions Кто это? Что это?
+- Question words
+- Impersonal sentence
+- Composite sentence with conjunctions кто, что, какой, который, когда, чей, сколько, почему, поэтому
+
+### Cases
+- Accusative
+- Prepositional
+- Genitive case
+- Dative case
+- Instrumental case
+
+## Vocabulary
+- My family
+- Shopping
+- At the cafe
+- In the city
+- Free time
+- In the university
+- Holidays
+- Work
+- Food
+- Appearance
+- At the doctor's
+- Numbers
+- Days of the week and time
+- My home
+- Transport
+- Countries and language
